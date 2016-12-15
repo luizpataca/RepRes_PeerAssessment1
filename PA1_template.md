@@ -240,4 +240,3 @@ xyplot(steps ~ interval | weekday, total_weekday, type = "l", layout = c(1, 2),
 ![](PA1_template_files/figure-html/total_weekday-1.png)<!-- -->
 
 The plots show differences between weekdays and weekends. On weekdays more steps are taken before 10:00 am compared to weekends.
-
